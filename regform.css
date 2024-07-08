@@ -1,0 +1,27 @@
+.container{
+    background-color: #48b907;
+    background-image:url("https://img.freepik.com/free-vector/gradient-mint-background_23-2150284417.jpg");
+    margin:10px 185px;
+    padding:10px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+        background-image:url("https://img.freepik.com/premium-photo/flowers-frame_853558-41886.jpg");
+        display: blick;
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color: #ad0db3;
+    }
+ 
